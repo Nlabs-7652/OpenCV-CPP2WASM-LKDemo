@@ -9,9 +9,8 @@ Key Features
 Browser-based Performance: Experience desktop-like speed and responsiveness directly in your web browser.
 Cross-Platform Compatibility: One binary runs seamlessly across all major operating systems, eliminating the need for platform-specific ports.
 Mobile Support: Fully functional on tablets, including iPads, allowing point tracking with touch input.
+Direct C++ Implementation: Writing OpenCV code directly in C++ proved more straightforward than using opencv.js, offering greater control and familiarity for C++ developers.
 
-Why It Matters
 Traditionally, porting applications to different operating systems like Windows or macOS required significant effort. This WebAssembly implementation demonstrates how a single binary can now run efficiently across all major platforms, streamlining development and distribution processes.
 
-Try It Out
 Click on any point in the demo to see real-time tracking in action. Whether you're on a desktop, laptop, or even an iPad, you'll be amazed at the smooth performance and accuracy of the point tracking.
